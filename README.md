@@ -3,7 +3,7 @@
 
 # GPT-Based Smart Assistant
 
-![License](https://img.shields.io/github/license/yourusername/yourrepository)
+![License](https://img.shields.io/github/license/Nitish2773/-GPT-Smart-Assistant-)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 A GPT-based smart assistant that leverages OpenAI's GPT-4 model for natural language processing. The assistant includes speech recognition, text-to-speech functionality, and web browser integration for enhanced interactivity.
