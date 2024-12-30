@@ -6,7 +6,9 @@
 ![License](https://img.shields.io/github/license/Nitish2773/-GPT-Based-Smart-Assistant-)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
-A GPT-based smart assistant that leverages OpenAI's GPT-4 model for natural language processing. The assistant includes speech recognition, text-to-speech functionality, and web browser integration for enhanced interactivity.
+The primary objective of this project is to develop an interactive voice-controlled assistant leveraging OpenAI's GPT model to understand and respond to user queries in natural language. This assistant aims to enhance user interaction by providing a seamless and intuitive experience through speech recognition and text-to-speech conversion.
+
+The project involves capturing audio commands from users, converting the speech to text, processing the text using the ChatGPT API, and converting the generated responses back into speech. The system is designed to handle natural language queries and provide meaningful responses, thereby improving the user experience.
 
 ## Features
 - **Conversational AI**: Uses OpenAI's GPT-4 model for intelligent and contextual responses.
