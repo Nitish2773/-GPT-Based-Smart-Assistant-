@@ -53,11 +53,4 @@ User: "Tell me about AI in simple terms."
 Assistant: "AI, or Artificial Intelligence, is a branch of computer science focused on creating systems that can perform tasks requiring human intelligence, like understanding language or making decisions."
 ```
 
-## Demo Video
-[Watch the demo here](#) <!-- Replace with your link -->
-
-## Website Link
-[Visit the website](#) <!-- Replace with your link -->
-
-
 ---
